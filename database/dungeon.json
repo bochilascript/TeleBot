@@ -1,0 +1,18 @@
+{
+  "120363404632802399@g.us": {
+    "players": {
+      "6282226516350@s.whatsapp.net": {
+        "health": 75,
+        "attack": 10,
+        "inventory": [
+          "Harta Karun Level 1",
+          "Harta Karun Level 1",
+          "Harta Karun Level 1"
+        ]
+      }
+    },
+    "level": 1,
+    "bossDefeated": false,
+    "createdAt": 1740054869843
+  }
+}

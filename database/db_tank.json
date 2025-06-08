@@ -1,0 +1,22 @@
+{
+  "sessions": {
+    "6285850213046@s.whatsapp.net": {
+      "players": {
+        "6285850213046@s.whatsapp.net": {
+          "tank": {
+            "health": 100,
+            "attack": 15,
+            "level": 1
+          },
+          "score": 0
+        }
+      },
+      "enemy": {
+        "health": 100,
+        "attack": 20
+      },
+      "round": 1,
+      "createdAt": 1740187726433
+    }
+  }
+}

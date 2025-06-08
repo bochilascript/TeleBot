@@ -1,0 +1,5 @@
+TELEGRAM_BOT_TOKEN=
+GOOGLE_API_KEY=
+GOOGLE_MODEL_TEXT=gemini-2.5-flash-preview-05-20
+GOOGLE_MODEL_IMAGE=gemini-2.0-flash-preview-image-generation
+RAPID_API_KEY=
