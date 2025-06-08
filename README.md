@@ -46,10 +46,23 @@ GOOGLE_MODEL_IMAGE=gemini-2.0-flash-preview-image-generation
 3. Dapatkan token yang diperlukan:
    - Telegram Bot Token: Buat bot baru melalui [@BotFather](https://t.me/BotFather)
    - Google API Key: Dapatkan dari [Google AI Studio](https://makersuite.google.com/app/apikey)
+   - Rapid Api Key: Dapatkan dari [Rapid](https://rapidapi.com)
 
 4. Jalankan bot:
 ```bash
-npm start
+- cd [Dir Bot]
+- npm install
+- npm start
+```
+
+5. Termux:
+```bash
+- npm install
+- npm start
+(kalo ada error dengan tulisan "❌ Could not load the "sharp" module using the android-arm64 runtime
+")
+masukkan perintah ini: npm install --cpu=wasm32 sharp
+-npm start
 ```
 
 ## Cara Penggunaan
