@@ -57,6 +57,14 @@ RAPID_API_KEY=your_rapid_apikey_here
 
 5. Termux:
 ```bash
+- apt update && apt upgrade -y
+- pkg update && pkg upgrade -y
+- pkg install git
+- pkg install ffmpeg
+- pkg install yt-dlp
+- pkg install imagemagick
+- git clone https://github.com/bochilascript/TelegramBOTV1.git
+- cd dir (tempat clone bot)
 - npm install
 - npm start
 (kalo ada error dengan tulisan "❌ Could not load the "sharp" module using the android-arm64 runtime
