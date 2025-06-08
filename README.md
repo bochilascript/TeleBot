@@ -40,7 +40,7 @@ TELEGRAM_BOT_TOKEN=your_telegram_bot_token_here
 GOOGLE_API_KEY=your_api_key_token_here
 GOOGLE_MODEL_TEXT=gemini-2.5-flash-preview-05-20
 GOOGLE_MODEL_IMAGE=gemini-2.0-flash-preview-image-generation
-
+RAPID_API_KEY=your_rapid_apikey_here
 ```
 
 3. Dapatkan token yang diperlukan:
