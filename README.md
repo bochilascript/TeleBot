@@ -106,8 +106,16 @@ masukkan perintah ini: npm install --cpu=wasm32 sharp
 - Bot menggunakan API pihak ketiga untuk beberapa fitur
 - Beberapa fitur mungkin memerlukan waktu beberapa detik untuk diproses
 - Gunakan perintah dengan benar sesuai format yang ditentukan
-- Untuk bantuan lebih lanjut, gunakan perintah `/help`
+- Untuk bantuan lebih lanjut, gunakan perintah `/menu`
 
 ## Dukungan
 
 Jika mengalami masalah atau memiliki pertanyaan, silakan buat issue di repository ini. 
+## Support OS
+```
+PC/Laptop : 
+- Windows
+- Linux
+Android : 
+- Termux
+```
