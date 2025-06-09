@@ -69,7 +69,7 @@ RAPID_API_KEY=your_rapid_apikey_here
 - npm start
 (kalo ada error dengan tulisan "❌ Could not load the "sharp" module using the android-arm64 runtime
 ")
-masukkan perintah ini: npm install --cpu=wasm32 sharp
+masukkan perintah ini: npm install --cpu=wasm64 sharp
 -npm start
 ```
 
